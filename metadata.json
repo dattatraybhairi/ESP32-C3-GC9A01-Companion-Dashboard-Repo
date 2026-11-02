@@ -1,0 +1,6 @@
+{
+  "name": "ESP32-C3 GC9A01 Companion & Dashboard Repo",
+  "description": "Hardware schematic, wiring connection diagram, interactive 240x240 GC9A01 LovyanGFX emulator, README documentation, and GitHub repository publisher for the ESP32-C3 + DHT11 Smart Companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
